@@ -7,9 +7,6 @@
 
     <link-summary>Example and formulae for the calculation of standard spur gears.</link-summary>
     <img alt="Standard Spur Gear" border-effect="rounded" width="200" src="SpurGear.png" thumbnail="true"/>
-
-
-
     <table>
         <tr>
             <td>No</td>
@@ -118,7 +115,6 @@
             </td>
             <td>50.000</td>
             <td>67.500</td>
-
         </tr>
         <tr>
             <td>10</td>
@@ -134,5 +130,4 @@
 
         </tr>
     </table>
-
 </topic>
