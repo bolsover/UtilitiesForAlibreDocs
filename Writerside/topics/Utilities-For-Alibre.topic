@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Utilities For Alibre" id="Utilities-For-Alibre">
+
+    <p>A simple collection of utilities for Alibre including:</p>
+    <list type="decimal" start="1">
+        <li><a href="Shortcuts-Report.topic">Shortcuts - A simple report detailing assigned shortcuts.</a></li>
+        <li><a href="Shortcuts-Keyboard.topic">Shortcuts - A visual aid in the form of a keyboard.</a></li>
+        <li><a href="Data-Browser.topic">Data Browser - A custom tool for browsing and optionally setting Alibre design properties.</a></li>
+        <li><a href="Sketch-Plane-Finder.topic">Sketch Plane Finder - Simple tool to show you on which plane a sketch has been made.</a></li>
+        <li><a href="Property-Viewer.topic">Property Viewer - Explore what id going on inside your designs!</a></li>
+        <li><a href="Cycloidal-Gears.topic">Cycloidal Gears - Generate sketches of cycloidal gears and pinions - ideal for clockmakers.</a> </li>
+        <li><a href="Involute-Gears.topic">Involute Spur and Helical Gears - Generate models of Spur and Helical gears.</a></li>
+    </list>
+
+</topic>
