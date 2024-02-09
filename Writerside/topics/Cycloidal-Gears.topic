@@ -8,4 +8,5 @@
     <p>A simple addon to generate Cycloidal Gears and Pinions. Just a few clicks and you will have a sketch of the required gear and pinion - ideal for clockmakers.</p>
     <img src="CycloidalGears.png" alt="Cycloidal Gears" thumbnail="true" width="300"/>
     <p>Gears generated using this tool are generally per BS 978-2.</p>
+    <p>Based on original work by Hugh Sparks and others.</p>
 </topic>
