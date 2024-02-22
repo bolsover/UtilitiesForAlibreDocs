@@ -10,7 +10,7 @@
     <note>The section presents a brief summary of the most commonly encountered symbols.</note>
     <chapter id="linear-and-circular-dimensions" collapsible="true" default-state="collapsed">
         <title>Linear and Circular Dimensions</title>
-        <table>
+        <table style="both">
             <tr>
                 <td sorted="asc">Item</td>
                 <td>Symbol</td>
@@ -232,18 +232,25 @@
 
     <chapter id="angular-dimensions" collapsible="true" default-state="collapsed">
         <title>Angular Dimensions</title>
-        <table>
+        <table style="both">
             <tr>
                 <td sorted="asc">Item</td>
                 <td>Symbol</td>
                 <td>Notes</td>
             </tr>
             <tr>
+                <td>Back Cone Angle</td>
+                <td>
+                    <include from="Greek.topic" element-id="nu"/>
+                </td>
+                <td>See -Bevel Gears</td>
+            </tr>
+            <tr>
                 <td>Pressure Angle</td>
                 <td>
                     <include from="Greek.topic" element-id="alpha"/>
                 </td>
-                <td></td>
+                <td/>
             </tr>
             <tr>
                 <td>Pressure Angle - Working </td>
@@ -306,35 +313,35 @@
                 <td>
                     <include from="Greek.topic" element-id="delta"/>
                 </td>
-                <td/>
+                <td>See -Bevel Gears</td>
             </tr>
             <tr>
                 <td>Cone Angle - Outside </td>
                 <td>
                     <include from="Snippets.topic" element-id="delta_a"/>
                 </td>
-                <td/>
+                <td>See -Bevel Gears</td>
             </tr>
             <tr>
                 <td>Cone Angle - Root </td>
                 <td>
                     <include from="Snippets.topic" element-id="delta_f"/>
                 </td>
-                <td/>
+                <td>See -Bevel Gears</td>
             </tr>
             <tr>
                 <td>Addendum Angle</td>
                 <td>
                     <include from="Snippets.topic" element-id="theta_a"/>
                 </td>
-                <td/>
+                <td>See -Bevel Gears</td>
             </tr>
             <tr>
                 <td>Dedendum Angle</td>
                 <td>
                     <include from="Snippets.topic" element-id="theta_f"/>
                 </td>
-                <td/>
+                <td>See -Bevel Gears</td>
             </tr>
             <tr>
                 <td>Involute Function</td>
@@ -376,7 +383,7 @@
 
     <chapter id="size-ratios-speed-dimensions" collapsible="true" default-state="collapsed">
         <title>Size, Ratios &amp; Speed Dimensions</title>
-        <table>
+        <table style="both">
             <tr>
                 <td sorted="asc">Item</td>
                 <td>Symbol</td>
@@ -534,7 +541,7 @@
 
     <chapter id="greek-alphabet" collapsible="true" default-state="collapsed">
         <title>Greek Alphabet</title>
-        <table>
+        <table style="both">
             <tr>
                 <td>English</td>
                 <td>Greek</td>

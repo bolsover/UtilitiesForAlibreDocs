@@ -16,7 +16,7 @@
             <include from="Snippets.topic" element-id="epsilon_beta"/>
         </i> to obtain the total contact ratio.
     </note>
-    <table>
+    <table style="both">
         <tr>
             <td colspan="2">Type of gear system</td>
             <td>Formula</td>

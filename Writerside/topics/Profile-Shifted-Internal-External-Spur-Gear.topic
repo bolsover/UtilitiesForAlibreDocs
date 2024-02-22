@@ -9,7 +9,7 @@
     <link-summary>Example and formulae for the calculation of profile shifted internal and external spur gear pair.</link-summary>
     <img src="InternalExternalSpur.png" alt="Internal External Spur gear" height="200" thumbnail="true"/>
 
-        <table>
+    <table style="both">
             <tr>
                 <td>No.</td>
                 <td>Item</td>

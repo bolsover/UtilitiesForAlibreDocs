@@ -30,7 +30,7 @@
         <include from="Snippets.topic" element-id="backlash-profile"/>
         <note>This table provides the relationships between various types of backlash</note>
 
-        <table>
+    <table style="both">
             <tr>
                 <td>Gear Type</td>
                 <td>Normal - Circular</td>

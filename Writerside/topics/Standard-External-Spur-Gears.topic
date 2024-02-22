@@ -7,7 +7,7 @@
 
     <link-summary>Example and formulae for the calculation of standard spur gears.</link-summary>
     <img alt="Standard Spur Gear" border-effect="rounded" width="200" src="SpurGear.png" thumbnail="true"/>
-    <table>
+    <table style="both">
         <tr>
             <td>No</td>
             <td>Item</td>

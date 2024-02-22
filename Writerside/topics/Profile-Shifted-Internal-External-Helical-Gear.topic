@@ -27,7 +27,7 @@
     </list>
     <img src="InternalHelical.png" alt="Standard Helical gear" width="200" thumbnail="true"/>
 
-        <table>
+    <table style="both">
             <tr>
                 <td>No.</td>
                 <td>Item</td>

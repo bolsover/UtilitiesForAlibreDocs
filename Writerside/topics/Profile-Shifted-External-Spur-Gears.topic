@@ -25,7 +25,7 @@
 
     <chapter title="Profile Shifted Spur Gear" id="profile-shifted-spur-gear"
              collapsible="true" default-state="expanded">
-        <table>
+        <table style="both">
             <tr>
                 <td>No.</td>
                 <td>Item</td>
