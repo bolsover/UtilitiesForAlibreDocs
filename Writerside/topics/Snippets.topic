@@ -14,6 +14,12 @@
         </code-block>
     </snippet>
 
+    <snippet id="tenm">
+        <code-block lang="tex">
+            \begin{equation} 10m \end{equation}
+        </code-block>
+    </snippet>
+
     <snippet id="b">
         <code-block lang="tex">
             \begin{equation} b \end{equation}
@@ -460,6 +466,18 @@
         </code-block>
     </snippet>
 
+    <snippet id="delta_1">
+        <code-block lang="tex">
+            \begin{equation} \delta_{1} \end{equation}
+        </code-block>
+    </snippet>
+
+    <snippet id="delta_2">
+        <code-block lang="tex">
+            \begin{equation} \delta_{2} \end{equation}
+        </code-block>
+    </snippet>
+
     <snippet id="delta_a">
         <code-block lang="tex">
             \begin{equation} \delta_{a} \end{equation}
@@ -477,10 +495,30 @@
             \begin{equation} \theta_{a} \end{equation}
         </code-block>
     </snippet>
+    <snippet id="theta_a1">
+        <code-block lang="tex">
+            \begin{equation} \theta_{a1} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="theta_a2">
+        <code-block lang="tex">
+            \begin{equation} \theta_{a2} \end{equation}
+        </code-block>
+    </snippet>
 
     <snippet id="theta_f">
         <code-block lang="tex">
             \begin{equation} \theta_{f} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="theta_f1">
+        <code-block lang="tex">
+            \begin{equation} \theta_{f1} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="theta_f2">
+        <code-block lang="tex">
+            \begin{equation} \theta_{f2} \end{equation}
         </code-block>
     </snippet>
 
@@ -810,6 +848,23 @@
         </code-block>
     </snippet>
 
+    <snippet id="d_i">
+        <code-block lang="tex">
+            \begin{equation} d_{i} \end{equation}
+        </code-block>
+    </snippet>
+
+    <snippet id="X">
+        <code-block lang="tex">
+            \begin{equation} X \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="X_b">
+        <code-block lang="tex">
+            \begin{equation} X_{b} \end{equation}
+        </code-block>
+    </snippet>
+
     <snippet id="OutsideDiameterFormula">
         <code-block lang="tex">
             \begin{equation} d + 2m \end{equation}
@@ -1083,7 +1138,115 @@
             \begin{equation}\left(\frac{z_{1}+z_{2}}{2}+y\right)m_{t} \end{equation}
         </code-block>
     </snippet>
+    <snippet id="PitchConeAngleForBevelGear1">
+        <code-block lang="tex">
+            \begin{equation} tan^{-1}  \left(\frac{sin\Sigma}{\frac{z_{1}}{z_{2}} + cos\Sigma}\right) \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="PitchConeAngleForBevelGear2">
+        <code-block lang="tex">
+            \begin{equation} \Sigma - \delta_{1} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="sigma_a">
+        <code-block lang="tex">
+            \begin{equation} \sigma_{a} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="OuterConeAngleForBevelGear">
+        <code-block lang="tex">
+            \begin{equation} \delta + \theta_{a} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="RootConeAngleForBevelGear">
+        <code-block lang="tex">
+            \begin{equation} \delta - \theta_{f} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="OutsideDiameterForBevelGear">
+        <code-block lang="tex">
+            \begin{equation}d\: + \: 2h_{a}\cdot cos\delta \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="PitchApexToCrownForBevelGear">
+        <code-block lang="tex">
+            \begin{equation}R_{e} cos\delta - h_{a} sin\delta\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="AxialFaceWidthForBevelGear">
+        <code-block lang="tex">
+            \begin{equation}\frac{b cos\delta_{a}}{cos \theta_{a}}\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="InnerOutsideDiameterForBevelGear">
+        <code-block lang="tex">
+            \begin{equation}d_{a} - \frac{2b sin\delta_{a}}{cos \theta_{a}}\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="nu_1">
+        <code-block lang="tex">
+            \begin{equation} \nu_{1} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="nu_2">
+        <code-block lang="tex">
+            \begin{equation} \nu_{2} \end{equation}
+        </code-block>
+    </snippet>
 
+    <snippet id="BackConeAngleForBevelGear1">
+        <code-block lang="tex">
+            \begin{equation}90 - \delta_{1} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="BackConeAngleForBevelGear2">
+        <code-block lang="tex">
+            \begin{equation} 90 - \delta_{2} \end{equation}
+        </code-block>
+    </snippet>
+
+    <snippet id="R_e">
+        <code-block lang="tex">
+            \begin{equation}R_{e} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="R_eDiv3">
+        <code-block lang="tex">
+            \begin{equation}\frac{R_{e}}{3} \end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="ConeDistanceForBevelGear">
+        <code-block lang="tex">
+            \begin{equation}\frac{d_{2}}{2 sin\:\delta_{2}}\end{equation}
+        </code-block>
+    </snippet>
+
+    <snippet id="GleasonAddendum1BevelGear">
+        <code-block lang="tex">
+            \begin{equation}2.000m - h_{a2}\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="GleasonAddendum2BevelGear">
+        <code-block lang="tex">
+            \begin{equation}0.540m+\frac{0.460m}{\left(\frac{z_{2}cos\delta_{1}}{z_{1}cos\delta_{2}}\right)}\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="GleasonDedendumBevelGear">
+        <code-block lang="tex">
+            \begin{equation}2.188m -h_{a}\end{equation}
+        </code-block>
+    </snippet>
+
+    <snippet id="DedendumAngleBevelGear">
+        <code-block lang="tex">
+            \begin{equation}tan^{-1}\left(\frac{h_{f}}{R_{e}}\right)\end{equation}
+        </code-block>
+    </snippet>
+    <snippet id="AddendumAngleBevelGear">
+        <code-block lang="tex">
+            \begin{equation}tan^{-1}\left(\frac{h_{a}}{R_{e}}\right)\end{equation}
+        </code-block>
+    </snippet>
 
     <snippet id="linebreakexample">
         <code-block lang="tex">
