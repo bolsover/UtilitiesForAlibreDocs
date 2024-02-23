@@ -12,7 +12,9 @@
         <toc-element topic="Data-Browser.topic"/>
         <toc-element topic="Property-Viewer.topic"/>
         <toc-element topic="Sketch-Plane-Finder.topic"/>
-        <toc-element topic="Cycloidal-Gears.topic"/>
+        <toc-element topic="Bevel-Gears.topic"/>
+        <toc-element topic="Cycloidal-Gears.topic">
+        </toc-element>
         <toc-element topic="Involute-Gears.topic">
             <toc-element topic="Formulae.topic">
                 <toc-element topic="Symbols.topic"/>

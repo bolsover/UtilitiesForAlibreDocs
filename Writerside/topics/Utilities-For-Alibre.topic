@@ -14,6 +14,7 @@
         <li><a href="Property-Viewer.topic">Property Viewer - Explore what id going on inside your designs!</a></li>
         <li><a href="Cycloidal-Gears.topic">Cycloidal Gears - Generate sketches of cycloidal gears and pinions - ideal for clockmakers.</a> </li>
         <li><a href="Involute-Gears.topic">Involute Spur and Helical Gears - Generate models of Spur and Helical gears.</a></li>
+        <li><a href="Bevel-Gears.topic">Bevel Gears - Generate models of Gleason and Standard straight bevel gears.</a></li>
     </list>
 
 </topic>
